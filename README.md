@@ -1,4 +1,4 @@
-# kakatalk-nix
+# kakaotalk-nix
 
 A Nix [Flake](https://nixos.wiki/wiki/Flakes) for KakaoTalk.
 
